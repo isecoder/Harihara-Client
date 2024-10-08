@@ -9,7 +9,7 @@
   text-align: center;
   padding: 100px 20px;
   min-height: calc(100vh - 140px); /* Subtract height of header and footer */
-  background-color: black;
+  background-color: rgba(224, 224, 224, 0.705);
 }
 
 .main-content h2,

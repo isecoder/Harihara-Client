@@ -16,7 +16,7 @@
 }
 
 .header h1 {
-  color: #000000; /* White text for contrast */
+  color: #ffffff; /* Change text color to white */
   margin: 0;
   font-size: 24px;
   font-family: 'Your Indian Font', sans-serif; /* Use a decorative font */
@@ -36,7 +36,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #000000;
+  color: #ffffff; /* Change link color to white */
   text-decoration: none;
   font-size: 18px;
   transition: color 0.3s;
@@ -44,8 +44,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #000000;
-  background-color: rgba(255, 255, 255, 0.2); /* Slightly transparent background on hover */
+  color: #ffffff; /* Maintain white color on hover */
+  background-color: rgba(0, 0, 0, 0.2); /* Slightly darker background on hover for contrast */
   border-radius: 5px; /* Rounded corners for hover effect */
 }
 
